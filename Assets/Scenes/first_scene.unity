@@ -173,6 +173,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ed2086970022374ea57444d2ae46b56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1589306761 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5655033493725396342, guid: 9b27fa48a80023d47a19f98bd984dacb, type: 3}
+  m_PrefabInstance: {fileID: 5655033493235876419}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &1589306764
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1589306761}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.95, y: 2.8166666}
+    newSize: {x: 1.17, y: 1.69}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.95, y: 2.8166666}
+  m_EdgeRadius: 0
 --- !u!1 &1657618592
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,6 +367,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1678802938}
     m_Modifications:
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 43875778560
+      objectReference: {fileID: 0}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: GUID:1ca3b2319f814224a9c6be8a228e1449
+      objectReference: {fileID: 0}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_UpdateString.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_UpdateString.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1223627116937911473}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_UpdateString.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_text
+      objectReference: {fileID: 0}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_UpdateString.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.UI.Text, UnityEngine.UI
+      objectReference: {fileID: 0}
+    - target: {fileID: -2630993420544150142, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_UpdateString.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 2708137570388667970, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 3
@@ -440,12 +499,39 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7258606833347080615, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_Name
+      value: next_text
+      objectReference: {fileID: 0}
+    - target: {fileID: 7680114294611635393, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: f851fdf5dcd78b847ad61acce0970d98, type: 3}
+    - target: {fileID: 7680114294611635393, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7680114294611635393, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 9182086007758002984, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
       propertyPath: m_Name
-      value: NextSceneButton
+      value: second_scene_button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+--- !u!114 &1223627116937911473 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7680114294611635393, guid: aa3c6dfbcdd69fc4fa7f92137645b4e8, type: 3}
+  m_PrefabInstance: {fileID: 1223627116937911472}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1666136002632287997
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -573,7 +659,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3042882622033714333, guid: c01c70ae0fd538544b12e6e1adf9af16, type: 3}
       propertyPath: m_Name
-      value: SceneManager
+      value: scene_manager
       objectReference: {fileID: 0}
     - target: {fileID: 8486942986433835082, guid: c01c70ae0fd538544b12e6e1adf9af16, type: 3}
       propertyPath: m_RootOrder
@@ -731,11 +817,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5655033493725396340, guid: 9b27fa48a80023d47a19f98bd984dacb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.57
+      value: 2.63
       objectReference: {fileID: 0}
     - target: {fileID: 5655033493725396340, guid: 9b27fa48a80023d47a19f98bd984dacb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.69
+      value: 0.77
       objectReference: {fileID: 0}
     - target: {fileID: 5655033493725396340, guid: 9b27fa48a80023d47a19f98bd984dacb, type: 3}
       propertyPath: m_LocalPosition.z
