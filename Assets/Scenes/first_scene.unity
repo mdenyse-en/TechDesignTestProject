@@ -504,6 +504,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1115607965}
     m_Modifications:
+    - target: {fileID: 1969891980751829253, guid: 7e338de6d6ad58a40944b512c7429afe, type: 3}
+      propertyPath: animationName
+      value: shrine_open
+      objectReference: {fileID: 0}
     - target: {fileID: 1969891980751829256, guid: 7e338de6d6ad58a40944b512c7429afe, type: 3}
       propertyPath: m_RootOrder
       value: 0

@@ -2,8 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class shrine_start_animation : MonoBehaviour
+public class start_animation : MonoBehaviour
 {
+    [SerializeField] string animationName;
     //public AnimationClip clip;
     private Animator animator;
 
@@ -16,7 +17,7 @@ public class shrine_start_animation : MonoBehaviour
         //Animator animator = GetComponent<Animator>();
         if (animator != null)
         {
-            animator.Play("shrine_open");
+            animator.Play(animationName);
         }
     }
 }
