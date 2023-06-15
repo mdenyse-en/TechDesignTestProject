@@ -1,0 +1,2775 @@
+fileFormatVersion: 2
+guid: 34b15a8b54e14664fbcf39c6d4ea508a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: batterfly_chew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0e1a102ae98442abb51be3f2a8b22
+      internalID: 1324211040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d2ec6908860447b20b7afb8030142
+      internalID: -198988261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296c9afb98da004d9490c6c4ee651bc
+      internalID: -2086953599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cff643b7c6b4234d8f17eca1ae0a81b
+      internalID: -338151674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bec88d9724de744b55ade329b98e03
+      internalID: 927482421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aeaae34623c534e8ee9f0a5b0b259d
+      internalID: -130202599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e0c9d7e474e08439a49ac39a6bbc6b
+      internalID: 1946545825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7a4799d94c854698745ae101919a0
+      internalID: 236055906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1248
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdf2eb92d17954885810929bbff52f
+      internalID: 375430596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a70e0e59455ca46908db73f0c13182
+      internalID: 1611181614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f98b5fe4ce2fd41abd31b1b4d733c5
+      internalID: -408223091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18432e339986b54429f3762f7884130b
+      internalID: 278550681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789e4838a284234288e3b9a52d9e106
+      internalID: -1690839325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7cfb57b5c2c5945b9bca8ff4879b11
+      internalID: -296396218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b0c8341850c34192c9a57fd040d54
+      internalID: 1055784269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db8904401072c843bb32bd3b07ce3fa
+      internalID: -1857649526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa332cb1b7d0d1e4f963e12294ad6a04
+      internalID: 598097691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_17
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1152
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9228ec4e91e454a9b874e0999c9955
+      internalID: 251912754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f5dfd3ecba1d479689969bac2a8a2
+      internalID: 297071387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4273c5c74bb247b203793443db7cb
+      internalID: 1812150716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f937701deb23c64cb685d3ff36fab1d
+      internalID: -1433271298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578af8b748bd037418764219bd028f52
+      internalID: 1232307051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4565ba4410205544afbbbc990df29aa
+      internalID: -1178384694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca942b4dc3293b544ba517df8d9b9d20
+      internalID: 640194684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbab3b8efdf10418d180e44881f94e
+      internalID: 2111144073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb77ce5136349f438eb1cf072d3bde6
+      internalID: -903818055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1056
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35eb294995ac5b40be3a5f7f474ac3d
+      internalID: -757341592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f802c07d00bc54fa9994000c96a13d
+      internalID: -105506094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bfc6ccfef4e7418fcd934354f1042
+      internalID: 1873878253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ad53920e0b08c49b84b3d1d497b796
+      internalID: 26058431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32850a8e5dc7342a6f332473b51f84
+      internalID: -153152626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c053e905b7ef240bf506df2b75e597
+      internalID: -1500832853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af59a168d3e3c24e876087c18775ccb
+      internalID: 437825594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d87493db68d7f4ba3efb25cfbc134b
+      internalID: 1234978206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b141542ede354991b1dd403dd9538
+      internalID: -1822533340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 960
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3057024af3ff74c448af0118e60c2419
+      internalID: -2064201630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5151ab77b3824aaf65c27529fda1d
+      internalID: -1933497262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae048a943fbe2914dbe9ef46785deb54
+      internalID: -1042295321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac15f71d5f279f4fb939e4888e2d851
+      internalID: -1416743039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1e21ddf8404b4ba46bdb0f4f8cf64
+      internalID: 1160854965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f247c00b3019f8e4a8bca09152f532f9
+      internalID: 321110727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e656cbd7cdc004fbe3bdc0d90c15c3
+      internalID: 317430492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28259ceb3ae0454fb4b581dad5fbf82
+      internalID: 838171691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921127a1557deec4e8660971d98b2dac
+      internalID: 1127958123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 864
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd97bb1f815894f827fee3b6e8b2ee
+      internalID: 574924014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e163675dca8061f4e9f833d64d56ee32
+      internalID: -1780363176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda2fd3afabef04aae6ce1a6762c231
+      internalID: 1160189666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c587645e05003b4983126b4ea6778d1
+      internalID: 1769162604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f835c5035c01498d6c29455b8bc30
+      internalID: 1310956218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de615a9a15ebe3f4d8ff18bf5c873e63
+      internalID: -323616844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fb9d8f9e741f428442a4c35b21152
+      internalID: -1273306594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f713d26a8ce649bac98c47a8974af
+      internalID: -1609091016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25a204b8cce2e47838174f164cedd5
+      internalID: -1206134902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 768
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3944010fef59344999dcf72c106cb8
+      internalID: -327280354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9d5565f4275546b8a6d7777aa15e4
+      internalID: 1315911450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0631dcc0a362a934fb88e2be60063db9
+      internalID: 858284879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61918c36d595ccb468a5052f45f08ff3
+      internalID: 1822199353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efab0fd9356593f4fa29665ffe00921b
+      internalID: 1941505385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc8d45f488f6d148b6274628291ce3d
+      internalID: 181498003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110d03af41621f47aadb5e98d47ed5f
+      internalID: 907543012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_60
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652a2e360bc011479cb7fc8e023c818
+      internalID: 1259107018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa04c684a5324499264dfffd64c568
+      internalID: 1424055429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 672
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd20e1aae60c07448033922bde49c59
+      internalID: 1237786671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f431f80756f6654ebe4212c9df3c2ae
+      internalID: 816532085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ed580003bcdd4684beadad5b0355d
+      internalID: 166967658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cfe1b8d088a584b94b2a38a083b144
+      internalID: 1150291329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f4f2e6305183449199df178c2d3ac
+      internalID: 1775542906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddca9fe2c834b3438c5868387e332c8
+      internalID: 401164689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b459926cd6329846b2902e4c124e67e
+      internalID: 1036368468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_69
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb967782b708f249b5816a925741c18
+      internalID: 2114053353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_70
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d511629a864bc46af825a49c8fb9dd
+      internalID: -1693068554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_71
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 576
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2ba74210ee4543994a875b8a7c166
+      internalID: 1203083749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e12123ffb97d4c86c10aa84d3234d
+      internalID: -1383541229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa91e6d43d491e438737b6cf03ca24e
+      internalID: -492663807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_74
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281adb88bb7423d419f1d04488e6bb21
+      internalID: 1754621956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5616cc85425a744aad4d0a3326f0c38
+      internalID: -729982469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_76
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb20bee0e133543ac58c25b65b8d5b
+      internalID: 1954711062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_77
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d804e3110f4c94d86d100e79287bd1
+      internalID: 1936658214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_78
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dca8207e294e141a74905708937cd7
+      internalID: 1575934852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_79
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314380b98e7e512458cead622906ff05
+      internalID: -1137841524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_80
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 480
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800cf6b43c7fc01449b8ca265f528d8c
+      internalID: 414051594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ca2253823aaa44a650f570e30d730
+      internalID: 1056718625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_82
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd87e07e28f83489f8cae50f4c1fc8
+      internalID: 157718820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d3f9e56b2ef94c83a2d16550b160f
+      internalID: 1967180563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_84
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2a3a2338018d43a30ee04bd072cf3
+      internalID: -1581689957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_85
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5a20f2f2260c4a86e61fb90416a32
+      internalID: 1280409688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d7345e0a1e332498f883cde847a19e
+      internalID: 801009085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_87
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737525ee29a24841a81dfd88aa477e2
+      internalID: -1365996101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_88
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2261392193d566a48b06dc2b60d3cf7d
+      internalID: -716852843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_89
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 384
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8621be96b0dc3a43a7c6fb25aa49638
+      internalID: -2120599211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078902688edc535459164182fb091223
+      internalID: -1061733322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e282df39a1a1f0479cf84ca300f0909
+      internalID: 1331052981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e049cb93dec2d45b1055ce695230d6
+      internalID: 1809618068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b554eabafe2d44bc210da9839d952
+      internalID: 1080016751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_94
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33962ca15bceb4e846ade74b49de4d
+      internalID: 978518879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_95
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316ee29ea8dd6c45bf8b155eebba04f
+      internalID: -560128524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_96
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d54a61f66abc4bacf6c348989f508
+      internalID: -989686046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_97
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c9d50073021e48a66a595356d95c9
+      internalID: 1378009971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_98
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 288
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24124226ed96ce4cb377b44658488cb
+      internalID: 914494243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f369b8bd4033944abb66fd6180bcbb8
+      internalID: 983131523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43c06f9500564489fb35356f43ca00
+      internalID: -1365437928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_101
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72661286fe5264083cf1ff3826638b
+      internalID: 1484802585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_102
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a315371cd60c418ee9a94eb6709ff
+      internalID: 1099550350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_103
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228cec8744f344b419b3f2ab85acbe42
+      internalID: 871673299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_104
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04d95c4cc273e24da1845a8d0d53747
+      internalID: -2132255589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_105
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a79a9736f9a824792fd7986effa152
+      internalID: -1748782398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_106
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823affb874d9f474491ac3813d62bf59
+      internalID: -1907344264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_107
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 192
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d6396850e40f49914d8026678fdce
+      internalID: -1891215649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc27435da256b549949ca18cc4d1821
+      internalID: -1735582435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_109
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f1819061c2bf149bf2a04be25e4b1d
+      internalID: 300339706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4046dbd11526a847b746cff4e9bb76e
+      internalID: -1630974364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8041850014d3344da5984859f23f50f
+      internalID: 1692187359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_112
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f56d255d0a684a8abe55d856cc68a
+      internalID: 540670396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_113
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef740da4b12dcc44abf3b3f44ea8af46
+      internalID: 1602146275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_114
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b89a8aa3683af4b8fd7f1a42b862e4
+      internalID: 1840664168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_115
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4ae5e51c688ff47b7554943b270a94
+      internalID: -1395665033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_116
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 96
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dffaab7454adb48b5e6f0e234f7a2f
+      internalID: 100738849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c72116f382bb4aba39188b02ab7ea
+      internalID: 1918920110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f311f37292bc74480ef7618228fd7e
+      internalID: 1965609160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: batterfly_chew_119
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c38e155f751104cad06700348b30d0
+      internalID: 282031948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      batterfly_chew_76: 1954711062
+      batterfly_chew_62: 1237786671
+      batterfly_chew_98: 914494243
+      batterfly_chew_54: 1315911450
+      batterfly_chew_58: 181498003
+      batterfly_chew_74: 1754621956
+      batterfly_chew_60: 1259107018
+      batterfly_chew_117: 1918920110
+      batterfly_chew_96: -989686046
+      batterfly_chew_4: 927482421
+      batterfly_chew_79: -1137841524
+      batterfly_chew_118: 1965609160
+      batterfly_chew_17: 251912754
+      batterfly_chew_46: 1160189666
+      batterfly_chew_32: 437825594
+      batterfly_chew_34: -1822533340
+      batterfly_chew_82: 157718820
+      batterfly_chew_23: 640194684
+      batterfly_chew_108: -1735582435
+      batterfly_chew_65: 1150291329
+      batterfly_chew_69: 2114053353
+      batterfly_chew_91: 1331052981
+      batterfly_chew_21: 1232307051
+      batterfly_chew_111: 1692187359
+      batterfly_chew_67: 401164689
+      batterfly_chew_97: 1378009971
+      batterfly_chew_1: -198988261
+      batterfly_chew_78: 1575934852
+      batterfly_chew_104: -2132255589
+      batterfly_chew_63: 816532085
+      batterfly_chew_87: -1365996101
+      batterfly_chew_26: -757341592
+      batterfly_chew_81: 1056718625
+      batterfly_chew_109: 300339706
+      batterfly_chew_64: 166967658
+      batterfly_chew_27: -105506094
+      batterfly_chew_84: -1581689957
+      batterfly_chew_36: -1933497262
+      batterfly_chew_10: -408223091
+      batterfly_chew_105: -1748782398
+      batterfly_chew_77: 1936658214
+      batterfly_chew_13: -296396218
+      batterfly_chew_28: 1873878253
+      batterfly_chew_29: 26058431
+      batterfly_chew_80: 414051594
+      batterfly_chew_88: -716852843
+      batterfly_chew_15: -1857649526
+      batterfly_chew_83: 1967180563
+      batterfly_chew_43: 1127958123
+      batterfly_chew_73: -492663807
+      batterfly_chew_107: -1891215649
+      batterfly_chew_47: 1769162604
+      batterfly_chew_5: -130202599
+      batterfly_chew_56: 1822199353
+      batterfly_chew_50: -1273306594
+      batterfly_chew_71: 1203083749
+      batterfly_chew_110: -1630974364
+      batterfly_chew_6: 1946545825
+      batterfly_chew_85: 1280409688
+      batterfly_chew_3: -338151674
+      batterfly_chew_24: 2111144073
+      batterfly_chew_119: 282031948
+      batterfly_chew_39: 1160854965
+      batterfly_chew_90: -1061733322
+      batterfly_chew_113: 1602146275
+      batterfly_chew_16: 598097691
+      batterfly_chew_40: 321110727
+      batterfly_chew_114: 1840664168
+      batterfly_chew_25: -903818055
+      batterfly_chew_41: 317430492
+      batterfly_chew_75: -729982469
+      batterfly_chew_44: 574924014
+      batterfly_chew_70: -1693068554
+      batterfly_chew_59: 907543012
+      batterfly_chew_37: -1042295321
+      batterfly_chew_68: 1036368468
+      batterfly_chew_100: -1365437928
+      batterfly_chew_9: 1611181614
+      batterfly_chew_38: -1416743039
+      batterfly_chew_66: 1775542906
+      batterfly_chew_33: 1234978206
+      batterfly_chew_19: 1812150716
+      batterfly_chew_102: 1099550350
+      batterfly_chew_18: 297071387
+      batterfly_chew_93: 1080016751
+      batterfly_chew_116: 100738849
+      batterfly_chew_14: 1055784269
+      batterfly_chew_12: -1690839325
+      batterfly_chew_53: -327280354
+      batterfly_chew_22: -1178384694
+      batterfly_chew_30: -153152626
+      batterfly_chew_52: -1206134902
+      batterfly_chew_55: 858284879
+      batterfly_chew_49: -323616844
+      batterfly_chew_86: 801009085
+      batterfly_chew_2: -2086953599
+      batterfly_chew_115: -1395665033
+      batterfly_chew_11: 278550681
+      batterfly_chew_31: -1500832853
+      batterfly_chew_57: 1941505385
+      batterfly_chew_72: -1383541229
+      batterfly_chew_94: 978518879
+      batterfly_chew_0: 1324211040
+      batterfly_chew_92: 1809618068
+      batterfly_chew_42: 838171691
+      batterfly_chew_99: 983131523
+      batterfly_chew_51: -1609091016
+      batterfly_chew_8: 375430596
+      batterfly_chew_7: 236055906
+      batterfly_chew_89: -2120599211
+      batterfly_chew_61: 1424055429
+      batterfly_chew_106: -1907344264
+      batterfly_chew_95: -560128524
+      batterfly_chew_35: -2064201630
+      batterfly_chew_20: -1433271298
+      batterfly_chew_103: 871673299
+      batterfly_chew_112: 540670396
+      batterfly_chew_45: -1780363176
+      batterfly_chew_48: 1310956218
+      batterfly_chew_101: 1484802585
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

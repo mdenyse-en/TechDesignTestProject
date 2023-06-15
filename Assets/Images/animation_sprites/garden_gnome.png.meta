@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 09fbe9d3aa64c2c40acbb2e8ccc8eb78
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: garden_gnome_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd63e518eeb6d4192cd945c9f3c9a2
+      internalID: 1647088639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1d31dcc261224a84d3e1a5e06bb8a
+      internalID: -720712146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6987ac97bde444f9520ad8dada22dd
+      internalID: 604711113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af89cd803a1983445a8e4b20c07e749b
+      internalID: -498850924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91960d1519271614b9ac0da9d0158dc4
+      internalID: -39410722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7600646512b1e3459ca83cd63bc0a8f
+      internalID: -1554329312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b7683addb33e419965f59b6f37811
+      internalID: -629500841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab24cf4b0e02ac489770898ea0b54ef
+      internalID: 1780041189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4256f82919b0e7e478050da7de2d847b
+      internalID: 545573667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 300
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c40ab0ddb28946b9fc0b5e6ea6165
+      internalID: 789314962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ed8be1d7c540408b3e0d2850875c3
+      internalID: -495100666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ffcf3c107bc24d834b3bba5e4b50f
+      internalID: -1638511865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62b09af67aa7842ad45f09ccec4435
+      internalID: 1305821987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52acbc9db2ecc174ca83dd251e5f742a
+      internalID: 397245559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7382925a3465e4fb4cfcbf320064bb
+      internalID: 1696621111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61c67e656ef1c4a99cc90c5d54950c
+      internalID: 80391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8677568d0f984f94d9774898e8f8e
+      internalID: 2048296209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ce5ee18492714a9fdb78f7766dbdc
+      internalID: 423878760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef494755fd1a2ab4f89e3a1c9d6a8fd9
+      internalID: -58170053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 150
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c81396f020cc848a1c9049e6f445dd
+      internalID: 1626497760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e95c030043a840860979950a82ef9
+      internalID: 381171804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a357e43761984c99f1249a5397d5a
+      internalID: 1959485708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82752ebffd227c49bc1e92b9372d8a9
+      internalID: -640875611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00194883ee655e14b895f363ee382f98
+      internalID: -2081588329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580cee525ee07c346917e61ea469e058
+      internalID: 1509620112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba866aa95632948ad253d771b10b15
+      internalID: 48404578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89bd4386aa25c4785d877258a79080
+      internalID: -1782749784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: garden_gnome_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ade8f9494c4b47809c50072286c4e
+      internalID: 160687261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      garden_gnome_1: -720712146
+      garden_gnome_8: 545573667
+      garden_gnome_23: -2081588329
+      garden_gnome_9: 789314962
+      garden_gnome_25: 48404578
+      garden_gnome_24: 1509620112
+      garden_gnome_16: 2048296209
+      garden_gnome_15: 80391344
+      garden_gnome_18: -58170053
+      garden_gnome_5: -1554329312
+      garden_gnome_26: -1782749784
+      garden_gnome_2: 604711113
+      garden_gnome_0: 1647088639
+      garden_gnome_4: -39410722
+      garden_gnome_10: -495100666
+      garden_gnome_3: -498850924
+      garden_gnome_20: 381171804
+      garden_gnome_17: 423878760
+      garden_gnome_7: 1780041189
+      garden_gnome_21: 1959485708
+      garden_gnome_12: 1305821987
+      garden_gnome_19: 1626497760
+      garden_gnome_14: 1696621111
+      garden_gnome_11: -1638511865
+      garden_gnome_22: -640875611
+      garden_gnome_6: -629500841
+      garden_gnome_13: 397245559
+      garden_gnome_27: 160687261
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
