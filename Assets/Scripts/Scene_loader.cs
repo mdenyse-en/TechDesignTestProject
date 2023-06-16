@@ -9,9 +9,4 @@ public class scene_loader : MonoBehaviour
     {
         SceneManager.LoadScene(sceneNum);
     }
-
-    public void GetFirstScene()
-    {
-        SceneManager.LoadScene(0);
-    }
 }
