@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class start_animation : MonoBehaviour
+public class AnimationStarter : MonoBehaviour
 {
     [SerializeField] string animationName;
     //public AnimationClip clip;
